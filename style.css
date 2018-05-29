@@ -1,0 +1,173 @@
+@charset "ISO-8859-1";
+@import "https://fonts.googleapis.com/css?family=IBM+Plex+Serif:400,700i";
+@import "https://fonts.googleapis.com/css?family=Montserrat:400,700"; 
+@import"https://fonts.googleapis.com/css?family=Roboto+Slab:400,700";
+body{
+
+	margin: 0px;
+	}
+
+header{
+		background: #3d4859;
+		color: white;
+		padding: 8px 0px 6px 40px;
+		height: 45px;
+}
+header h1{
+	display: inline;
+	font-family: 'IBM Plex Serif', serif;
+	font-weight: 400;
+	font-size: 32px;
+	float: left;
+	margin-top: 0px;
+	margin-right: 10px;
+
+}
+nav ul{
+	display: inline;
+	padding: 0px;
+	float: left;
+}
+
+nav ul li{
+	display: inline-block;
+	list-style-type: none;
+	color: white;
+	float: left;
+	margin-left: 12px; 
+}
+nav ul li a{
+	color: white;
+	text-decoration: none;
+}
+
+.divider{
+	background-color: #11033d;
+	height: 5px;
+	margin: 0;
+	padding: 0;
+
+}
+#nav{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.hred{
+	background-color: #11033d;
+	padding: 30px 10px 17px 10px;
+}
+.log{
+	font-family: 'Montserrat', sans-serif;
+	margin-left: 620px;
+}
+.log:hover{
+	background-color: #11033d;
+	padding: 30px 10px 17px 10px;
+}
+.sign{
+		font-family: 'Montserrat', sans-serif;
+}
+.sign:hover{
+	background-color: #11033d;
+	padding: 30px 10px 17px 10px;
+}
+.hb:hover {
+	background-color: #11033d;
+	padding: 30px 10px 17px 10px;
+}
+.fwimage1 { 
+	background-image: url("images/Range1.jpg");
+	width: 100%;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+.sup{
+	font-size: 40px;
+	padding: 2% 1% 1% 3.5%;
+	color: #0b384d;
+	margin: 0;
+	font-weight: bold;
+}
+.lname{
+	font-family: 'Roboto Slab', serif;
+	padding: 14% 5% 0% 10%;
+	color: #000000;
+	font-size: 20px;
+	margin: 0;
+}
+.lmail{
+	font-family: 'Roboto Slab', serif;
+	padding: 7% 2.8% 0% 10%;
+	color: #000000;
+	font-size: 20px;
+	margin: 0;
+}
+.cno{
+	font-family: 'Roboto Slab', serif;
+	padding: 7% 0.8% 0% 10%;
+	color: #000000;
+	font-size: 20px;
+	margin: 0;
+}
+.vtype{
+	font-family: 'Roboto Slab', serif;
+	padding: 7% 0.8% 0% 10%;
+	color: #000000;
+	font-size: 20px;
+	margin: 0;
+}
+.myear{
+	font-family: 'Roboto Slab', serif;
+	padding: 7% 0.8% 0% 10%;
+	color: #000000;
+	font-size: 20px;
+	margin: 0;
+}
+.city{
+	font-family: 'Roboto Slab', serif;
+	padding: 7% 0.8% 0% 10%;
+	color: white;
+	font-size: 20px;
+	margin: 0;
+}
+.pmp{
+	margin-left: 45%;
+	background-size: 10px;
+	font-weight: bold;
+}
+.pmp:hover{
+	background-color: #1f0d47;
+	color: white;
+}
+.txtn{
+	padding: 0% 0% 0% 4%;
+
+}
+.txtm{
+	margin-left: 10%;
+}
+.address{
+	font-family: 'Roboto Slab', serif;
+	padding: 7% 3% 0% 10%;
+	color: white;
+	font-size: 20px;
+	margin: 0%;}
+.description{
+	font-family: 'Roboto Slab', serif;
+	padding: 7% 0.8% 0% 10%;
+	color: black;
+	font-size: 20px;
+	margin: 0;
+}
+.mag{
+	color: #451c45;
+}
+footer{
+	background-color: #3d4859;
+	color: white;
+	text-align: center;
+	padding-bottom: 18px;
+}
